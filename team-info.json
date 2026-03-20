@@ -1,12 +1,12 @@
 {
-    "team_name": "Team Name",
+    "team_name": "Powerpuff Girls",
     "students": [
         {
-            "student_id": "k00000000",
-            "first_name": "First",
-            "last_name": "Last",
-            "email": "first.last@mail.com",
-            "github_user": "mygitusername"
+            "student_id": "k12406602",
+            "first_name": "Elmedin",
+            "last_name": "Zukic",
+            "email": "elmezukic165@gmail.com",
+            "github_user": "Hoodie-Goodie"
         },
         {
             "student_id": "k00000000",
