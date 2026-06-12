@@ -10,4 +10,4 @@ the Visualization UE Team
 Submission 1: 3.5/5 points
 
 Dataset description -- Source missing (Major; No concrete source is given.)
-Hypotheses/Tasks -- H/T wrongly assigned or unclear (Minor; some hypotheses are vague or weakly phrased, especially â€œMovies seem to be more commonâ€ and â€œappears to have increased.â€ )
+Hypotheses/Tasks -- H/T wrongly assigned or unclear (Minor; some hypotheses are vague or weakly phrased, especially “Movies seem to be more common” and “appears to have increased.” )

@@ -1,0 +1,14 @@
+Dear team Powerpuff Girls,
+
+please find your points and feedback for Submission 2 below. Note that these grades are considered final and subject to change only in cases of severe misunderstandings. As we cannot monitor any GitHub threads, please direct any questions to the course email vis-course@jku.at.
+
+Best regards,
+the Visualization UE Team
+
+-----
+
+Submission 2: 28/30 points
+
+Sketch -- Unclear (it's unclear what will make the chart interesting/complex (no interactivity or advanced encoding))
+
+Other comments: drop shadow and exploded slice are unnecessary decorations
