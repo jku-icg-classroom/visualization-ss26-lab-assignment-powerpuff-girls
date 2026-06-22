@@ -1,27 +1,22 @@
 {
     "submission_id": 3,
     "submission_type": "final",
-    "team_name": "Team Name",
+    "team_name": "powerpuff-girls",
     "students": [
         {
-            "first_name": "First",
-            "last_name": "Last",
-            "workload": 0.25
+            "first_name": "Saba",
+            "last_name": "Zia Naserani",
+            "workload": 0.34
         },
         {
-            "first_name": "First",
-            "last_name": "Last",
-            "workload": 0.25
+            "first_name": "Elmedin",
+            "last_name": "Zukic",
+            "workload": 0.33
         },
         {
-            "first_name": "First",
-            "last_name": "Last",
-            "workload": 0.25
-        },
-        {
-            "first_name": "First",
-            "last_name": "Last",
-            "workload": 0.25
+            "first_name": "Egzona",
+            "last_name": "Gashi",
+            "workload": 0.33
         }
     ]
 }
